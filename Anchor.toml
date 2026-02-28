@@ -12,7 +12,7 @@ reputation_vault = "2EK5uc9E1RkmKFMZMjhxukDcLFa3Bc4LM57RL38ou2LA"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
