@@ -12,7 +12,7 @@ Users can only withdraw funds if their on-chain reputation score meets or exceed
 ![Tests Passing](testspassing.png)✅
 
 
-![deployed to devnet](https://explorer.solana.com/address/2EK5uc9E1RkmKFMZMjhxukDcLFa3Bc4LM57RL38ou2LA?cluster=devnet)✅
+[View on Solana Explorer (Devnet)](https://explorer.solana.com/address/2EK5uc9E1RkmKFMZMjhxukDcLFa3Bc4LM57RL38ou2LA?cluster=devnet)
 
 Program Id: 2EK5uc9E1RkmKFMZMjhxukDcLFa3Bc4LM57RL38ou2LA
 
