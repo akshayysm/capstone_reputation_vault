@@ -2,9 +2,7 @@ Reputation-Gated Vault
 
 Overview-
 
-It implements a Reputation-Based Vault using the Anchor framework on Solana.
-
-The vault enforces a dynamic behavior-based withdrawal rule:
+The vault enforces a dynamic behaviour-based withdrawal rule:
 
 Users can only withdraw funds if their on-chain reputation score meets or exceeds a required threshold defined during vault initialization.
 
